@@ -4,7 +4,7 @@ title: UMW
 permalink: /umw/
 ---
 
-### Fall 2016
+### Fall 2016 (enrolled in now)
 * CPSC 326 - Theory of Computation
 * CPSC 405 - Operating Systems
 * CPSC 350 - Databases

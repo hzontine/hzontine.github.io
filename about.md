@@ -18,8 +18,7 @@ I am a senior at the University of Mary Washington.
 * I am the oldest of five.
 
 ### My family
-
-
+![alt text](https://raw.githubusercontent.com/hzontine/hzontine.github.io/master/images/myFam.JPG "My Family")
 
 
 ### Contact me

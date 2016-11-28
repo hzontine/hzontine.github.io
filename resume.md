@@ -4,10 +4,10 @@ title: My Resume
 permalink: /resume/
 ---
 
+### Research
+
+
 ### Experience
-
-
-### Classes
 
 
 ### Previous Jobs

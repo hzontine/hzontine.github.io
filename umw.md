@@ -18,3 +18,17 @@ permalink: /umw/
 * CPSC 340 - Data Structures
 * CPSC 420 - Modeling & Simulation
 * Geology 112 - Evolution of Earth
+
+### Fall 2015
+* CPSC 225 - Software Development Tools
+* CPSC 240 - Object-Oriented Analysis & Design
+* CPSC 391 - Social Network Data Analysis
+* DSCI 402 - Analytics Application Development
+* EESC 110 - Introduction to Environmental Science
+
+### Spring 2015
+* CPSC 220 - Comp Progr & Problem Solving
+* CPSC 270 - Foundations for Data Science
+* ECON 202B - Princp of Microeconomics
+* LATIN	202	- Intermediate Latin
+* MATH 121 - Calculus I

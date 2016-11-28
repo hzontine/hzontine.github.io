@@ -11,24 +11,24 @@ permalink: /umw/
 * Individual Research
 
 ### Summer 2016
-* CPSC 125 - Discrete Mathmematics
+* CPSC 125 - Discrete Mathmematics                  B
 
 ### Spring 2016
-* CPSC 305 - Computer Systems & Architecture
-* CPSC 340 - Data Structures
-* CPSC 420 - Modeling & Simulation
-* Geology 112 - Evolution of Earth
+* CPSC 305 - Computer Systems & Architecture        B  
+* CPSC 340 - Data Structures                        A
+* CPSC 420 - Modeling & Simulation                  A
+* Geology 112 - Evolution of Earth                  B
 
 ### Fall 2015
-* CPSC 225 - Software Development Tools
-* CPSC 240 - Object-Oriented Analysis & Design
-* CPSC 391 - Social Network Data Analysis
-* DSCI 402 - Analytics Application Development
-* EESC 110 - Introduction to Environmental Science
+* CPSC 225 - Software Development Tools             A
+* CPSC 240 - Object-Oriented Analysis & Design      A
+* CPSC 391 - Social Network Data Analysis           A
+* DSCI 402 - Analytics Application Development      A
+* EESC 110 - Introduction to Environmental Science  B
 
 ### Spring 2015
-* CPSC 220 - Comp Progr & Problem Solving
-* CPSC 270 - Foundations for Data Science
-* ECON 202B - Princp of Microeconomics
-* LATIN	202	- Intermediate Latin
-* MATH 121 - Calculus I
+* CPSC 220 - Comp Progr & Problem Solving           A
+* CPSC 270 - Foundations for Data Science           A
+* ECON 202B - Princp of Microeconomics              A
+* LATIN	202	- Intermediate Latin                    B
+* MATH 121 - Calculus I                             B

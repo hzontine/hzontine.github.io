@@ -12,8 +12,14 @@ I am a senior at the University of Mary Washington.
 * I have three brothers and one sister.
 * I have never had a pet.
 * My youngest brother had Diabetes.
-* I wrote a 42 page thesis in high school on the different effect ADHD has on middle School girls compared to boys.
+* I wrote a 42 page thesis senior year of high school for my dad's English class.
+  * I studied the different effect ADHD has on girls compared to boys.
 * I dislike grape flavored candy.
+
+
+### My family
+
+
 
 ### Contact me
 

@@ -8,7 +8,7 @@ permalink: /resume/
  * Summer Science Institute, 2016
  * Winter Simulation 2016 conference
  * Computational Social Science Society of the Americas 2016 conference
-    *  [The Surprising Effect of Implementation Choice on the Rate of Convergence of Opinion Dynamics Models](http://cs.umw.edu/~stephen/daviesZontine.pdf)
+    *  [Paper](http://cs.umw.edu/~stephen/daviesZontine.pdf)
     
 ### Experience
  * Alpha Mu Sigma, co-ed service fraternity

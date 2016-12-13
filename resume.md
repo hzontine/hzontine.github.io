@@ -5,11 +5,12 @@ permalink: /resume/
 ---
 
 ### Research with Dr. Stephen Davies
- * Summer Science Institute, 2016
- * Winter Simulation 2016 conference
- * Computational Social Science Society of the Americas 2016 conference
+ * Summer Science Institute, Summer 2016
+ * Computational Social Science Society of the Americas 2016 conference, November 2016
     *  [Paper](http://cs.umw.edu/~stephen/daviesZontine.pdf)
-    
+ * Winter Simulation 2016 conference, December 2016
+
+
 ### Experience
  * Alpha Mu Sigma, co-ed service fraternity
    * Member since Fall 2015

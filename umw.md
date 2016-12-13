@@ -4,10 +4,16 @@ title: UMW
 permalink: /umw/
 ---
 
+
+### Spring 2017
+* Honors Senior Thesis
+* CPSC 430: Software Engineering
+* Public Speaking
+
 ### Fall 2016
-* CPSC 326 - Theory of Computation
-* CPSC 405 - Operating Systems
-* CPSC 350 - Databases
+* CPSC 326: Theory of Computation
+* CPSC 405: Operating Systems
+* CPSC 350: Databases
 * Individual Research
 
 ### Summer 2016

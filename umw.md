@@ -8,6 +8,7 @@ permalink: /umw/
 ### Spring 2017
 * Honors Senior Thesis
   * Advisor - Dr. Stephen Davies
+  * Writing Intensive
 * CPSC 430: Software Engineering
 * Public Speaking
 

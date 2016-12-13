@@ -12,10 +12,12 @@ permalink: /resume/
 
 ### Experience
  * Alpha Mu Sigma, co-ed service fraternity
-   * Completed up to 30 hours of community service since becoming a member last Fall
+   * Member since Fall 2015
+   * Completed up to 40 hours of community service
  * Data Mavens, UMW Data Science club
    * Attend Guest Speakers
    * Travel to meet with the Data Community of DC
+   * Member of 'Women Who Code'
 
 ### Leadership
 

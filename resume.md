@@ -6,12 +6,13 @@ permalink: /resume/
 
 ### Research with Dr. Stephen Davies
  * Summer Science Institute, Summer 2016
- * Computational Social Science Society of the Americas 2016 conference
+ * Computational Social Science Society of the Americas (CSSSA)
     * Santa Few, New Mexico
-    * November 16-20, 2016
+    * Conference took place from November 16 to 20, 2016.
     *  [Paper](http://cs.umw.edu/~stephen/daviesZontine.pdf)
- * Winter Simulation 2016 conference, December 2016
-
+ * Winter Simulation Conference (WSC)
+    * Arlington, Virginia
+    * Conference took place from December 11 to 14 2016.
 
 ### Experience
  * Alpha Mu Sigma, co-ed service fraternity

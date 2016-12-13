@@ -21,6 +21,11 @@ I am a senior at the University of Mary Washington.
 ![alt text](https://raw.githubusercontent.com/hzontine/hzontine.github.io/master/images/myfamily.JPG "My Family")
 
 
+### My brother, Eliot, and I
+![alt text](https://raw.githubusercontent.com/hzontine/hzontine.github.io/master/images/eliot.jpg "ELIOT")
+
+
+
 ### Contact me
 
 [hzontine@gmail.com](mailto:hzontine@gmail.com)

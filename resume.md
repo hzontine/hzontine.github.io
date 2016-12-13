@@ -7,7 +7,7 @@ permalink: /resume/
 ### Research with Dr. Stephen Davies
  * Summer Science Institute, 2016
  * Computational Social Science Society of the Americas 2016 conference
-    *  [Our Paper](http://cs.umw.edu/~stephen/daviesZontine.pdf)
+    *  [The Surprising Effect of Implementation Choice on the Rate of Convergence of Opinion Dynamics Models](http://cs.umw.edu/~stephen/daviesZontine.pdf)
 * Winter Simulation 2016 conference
 
 ### Experience

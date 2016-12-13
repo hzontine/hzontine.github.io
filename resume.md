@@ -22,12 +22,14 @@ permalink: /resume/
 ### Leadership
 
 * Association of Computing Machinery
-  * Club Secretary, September 2016 - now
-  * Organized a Hackathon event at UMW
+  * Club Secretary
+  * Member since 2015
+  * Organized Hackathon event
   
 * Inter Club Association
   * Vice-President
   * President of the Constitution Review Board
+  * Council of Presidents
   
 * National Collegiate Scholars
   * Member since 2014

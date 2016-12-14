@@ -9,7 +9,7 @@ permalink: /resume/
  * Computational Social Science Society of the Americas (CSSSA)
     * Santa Few, New Mexico
     * Conference took place from November 16 to 20, 2016.
-    *  [Link](http://cs.umw.edu/~stephen/daviesZontine.pdf)
+      * [Link](http://cs.umw.edu/~stephen/daviesZontine.pdf)
  * Winter Simulation Conference (WSC)
     * Arlington, Virginia
     * Conference took place from December 11 to 14 2016.
